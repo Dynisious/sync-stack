@@ -3,6 +3,10 @@ name = "sync-stack"
 version = "0.1.0"
 authors = ["Dynisious <daniel.bechaz@gmail.com>"]
 edition = "2018"
+readme = "README.md"
+license-file = "LICENSE"
+repository = "https://github.com/Dynisious/sync-stack"
+description = "A synchronisation primitive which allows threads to park and unpark"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
